@@ -25,6 +25,37 @@ Contributing
 -------------
 Interested in creating your content? One of Wesnoth's best features is its extensibility. Players can create new maps, units, races, scenarios, art, music, and even entire campaigns! Please read information on our site (https://wiki.wesnoth.org/Create) for more information.
 
+**What can players contribute?!**
+
+ -WML Tutorial - Introduction to WML (In Progress)
+ 
+ -Maps - the battlefields the game is played on
+  
+-Scenarios - making things happen on a map, making it playable
+
+-Campaigns - putting it all together into a campaign
+
+-Multiplayer Scenarios and Campaigns - making your content accessible in multiplayer
+
+-Custom Units
+
+-Distributing content - all about the add-on server
+
+-Art - complete with tutorials!
+
+-Music
+
+-Writing
+
+-Artificial Intelligence - how to create and modify AI behavior
+
+-Translations - work on translating Wesnoth
+
+-Authoring tools - tools for helping you write campaign WML
+
+-Maintenance tools - tools for helping you sanity-check and maintain campaigns
+
+
 License
 -------
 
