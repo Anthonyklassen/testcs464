@@ -28,33 +28,46 @@ Interested in creating your content? One of Wesnoth's best features is its exten
 **What can players contribute?!**
 
  -WML Tutorial - Introduction to WML (In Progress)
+ (https://wiki.wesnoth.org/WML_for_Complete_Beginners)
  
  -Maps - the battlefields the game is played on
+ (https://wiki.wesnoth.org/BuildingMaps)
   
 -Scenarios - making things happen on a map, making it playable
+(https://wiki.wesnoth.org/BuildingScenarios)
 
 -Campaigns - putting it all together into a campaign
+(https://wiki.wesnoth.org/BuildingCampaigns)
 
 -Multiplayer Scenarios and Campaigns - making your content accessible in multiplayer
+(https://wiki.wesnoth.org/MultiplayerContent)
 
 -Custom Units
+(https://wiki.wesnoth.org/BuildingUnits)
 
 -Distributing content - all about the add-on server
+(https://wiki.wesnoth.org/Distributing_content)
 
 -Art - complete with tutorials!
+(https://wiki.wesnoth.org/Create_Art)
 
 -Music
+(https://wiki.wesnoth.org/Create_Music)
 
 -Writing
+(https://wiki.wesnoth.org/Create_Writing)
 
 -Artificial Intelligence - how to create and modify AI behavior
+(https://wiki.wesnoth.org/Wesnoth_AI)
 
 -Translations - work on translating Wesnoth
+(https://wiki.wesnoth.org/WesnothTranslations)
 
 -Authoring tools - tools for helping you write campaign WML
+(https://wiki.wesnoth.org/Authoring_tools)
 
 -Maintenance tools - tools for helping you sanity-check and maintain campaigns
-
+(https://wiki.wesnoth.org/Maintenance_tools)
 
 License
 -------
