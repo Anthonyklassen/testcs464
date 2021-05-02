@@ -1,5 +1,18 @@
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
+Table of Contents
+=================
+  i. About
+  ---------
+  ii. Contributing
+  -----------------
+  iii. License
+  -----------------
+  iv. Installing
+  -----------------
+  v. More Information
+  -------------------
+
 About
 =====
 
@@ -8,6 +21,9 @@ high fantasy theme, featuring both singleplayer and online/hotseat multiplayer
 combat. Fight a desperate battle to reclaim the throne of Wesnoth, or take
 hand in any number of other adventures.
 
+Contributing
+-------------
+Interested in creating your content? One of Wesnoth's best features is its extensibility. Players can create new maps, units, races, scenarios, art, music, and even entire campaigns! Please read information on our site (https://wiki.wesnoth.org/Create) for more information.
 
 License
 -------
