@@ -25,3 +25,18 @@ See [INSTALL](/INSTALL.md) for instructions on how to build the game from source
 
 More Information
 ----------------
+
+For extensive documentation about all aspects of the game, see the
+official Battle for Wesnoth web site.
+
+  <https://www.wesnoth.org/>
+
+A (translated) description of how to play the game can be found in
+doc/manual/manual.*.html, or online at:
+
+  <https://wiki.wesnoth.org/WesnothManual>
+
+The official Battle for Wesnoth Forums (with over 400,000 posts from more than
+20,000 registered members) can be found at:
+
+  <https://forums.wesnoth.org/>
